@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+	<meta charset="UTF-8">
+	<title>a tag</title>
+</head>
+
+<style>
+	.container{
+		background-color: grey;
+		height: 500px;
+		width: 500px;
+		text-align: center;
+
+		/*컨테이너의 높이와 같은 px값을 line-height로 써줌 */
+		line-height: 500px;
+	}
+
+	.info{
+		display: inline-block;
+		background-color: lime;
+		vertical-align: middle;
+		height: 150px;
+		width: 100%;
+
+		/* line-height 속성은 자식들에게 상속되기 때문에 
+		.info에는 line-height: normal;을 꼭 써줘야 함!  */
+		line-height: normal;
+
+	}
+
+
+	.helper{
+		display: inline-block;
+		vertical-align: middle;
+		height: 100%;
+
+		/*width: 5px;
+		background-color: red;*/
+	}
+
+
+</style>
+
+<body>
+	<div class="container">
+		<div class="helper"></div><div class="info">
+			<h1>Hello!</h1>
+			<p>My name is young.</p>
+		</div>
+	</div>
+
+</body>
+
+</html>

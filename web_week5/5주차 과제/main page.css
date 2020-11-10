@@ -1,0 +1,83 @@
+
+
+
+.top{
+  display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#top-topic{
+  font-style: sans-serif;
+	font-size: 40px;
+  margin-top: 50px;
+	text-align: center;
+	color : #ffffff;
+}
+h2{
+  	font-style: sans-serif;
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 80px;
+  margin-top:2px;
+	color : #ffffff;
+}
+.gbrintroduce{
+  font-size: 20px;
+	font-style:Sans-Serif;
+	color : rgb(255,255,255);
+	text-align: center;
+}
+.introduce{
+  font-size: 30px;
+	font-style:Sans-Serif;
+	color : rgb(255,255,255);
+	text-align: center;
+  margin-top:10px;
+  margin-bottom:80px;
+}
+.intro{
+  font-size: 35px;
+	font-style:Sans-Serif;
+	color : rgb(0,0,0);
+	text-align: center;
+}
+.box{
+  background-color: #034e6c;
+  width: 700px;
+  padding: 10px;
+  margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 5px 5px #515151;
+}
+.box-text{
+	padding-right: 30px;
+	padding-left: 30px;
+   font-style: sans-serif;
+	font-size: 20px;
+	color: rgb(255,255,255);
+	text-align: justify;
+}
+.poster{
+  display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h4{
+  font-size: 35px;
+	font-style:Sans-Serif;
+	color : #ffffff;
+	text-align: center;
+}
+.topic{
+	padding-top: 20px;
+    font-style: sans-serif;
+	font-size: 35px;
+    margin-top: 40px;
+	text-align: center;
+	color : rgb(255,255,255);
+}
+.line{
+  text-align:center;
+  color : #ffffff;
+}

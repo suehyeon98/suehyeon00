@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;600;800&display=swap" rel="stylesheet">
+
+    <title>Online Shopping Mall</title>
+
+</head>
+
+<body>
+    <h1>Nike Air Max</h1>
+
+    <h2 >Shoes Color</h2>
+
+    <div class="things">
+    <h3>White</h3>
+    <img src="https://i.postimg.cc/YqHnLD2T/Kakao-Talk-20200922-135546976.png" alt="White" class="Picture">
+    </div>
+
+    <div class="things">
+    <h3>Beige</h3>
+    <img src="https://i.postimg.cc/XvmxjQDH/Kakao-Talk-20200922-135444050.png" alt="Beige" class="Picture">
+    </div>
+
+    <div class="things">
+    <h3>Black</h3>
+    <img src="https://i.postimg.cc/JzhQj9fY/Kakao-Talk-20200922-135340904.png" alt="blackk" class="Picture">
+    </div>
+
+
+</body>
+
+</html>
